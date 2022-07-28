@@ -18,6 +18,7 @@ tab = "1. Master Metadata"
 
 warnings.simplefilter(action='ignore', category=UserWarning)
 
+#done
 def getXLF():
 
     print("")
@@ -47,6 +48,7 @@ def getXLF():
 
     return xlf, s3path
 
+#done
 def openXLF(xlf):
 
     try:
@@ -65,7 +67,9 @@ def openXLF(xlf):
 
     return workbook, ws
 
-def moveSCC(ws,sccCol,hnCol):
+"""
+#have not started
+def moveSCC(ws,subcol,hncol):
 
     startrow = 5
     r        = startrow + 1
@@ -93,15 +97,44 @@ def moveSCC(ws,sccCol,hnCol):
             #print(" ",txt)
             #Left off here form the link
         r += 1
+"""
 
+#done: will report columns of scc & house number
 def getColumns(ws):
+
+    row      = 5
+    col      = 2
+    endcol   = 34
+    hncol    = 0
+    subcol   = 0
+
+    while (subcol == 0) or (hncol == 0):
+
+        txt = str(ws.cell(row,col).value)
+        txt = txt.lower()
+
+        if txt == "scc filename \n(no extension)":
+            subcol = col
+        elif txt == "house number":
+            hncol = col
+        elif txt == "none":
+            print("  Could not find columns")
+            sys.exit(1)
+
+        col += 1
+
+    #print("SCC :",subcol," HN:",hncol)
+    return subcol,hncol
+
 
 
 #1) Get the XLF File
 xlf,s3path = getXLF()
 
-#3) open the XLF File: get workbook and worksheet
+#2) open the XLF File: get workbook and worksheet
 workbook,ws = openXLF(xlf)
 
+#3) get the columns of the scc files, and HouseNumbers:
+subcol, hncol = getColumns(ws)
 
 workbook.close()
