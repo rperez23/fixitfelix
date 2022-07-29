@@ -67,37 +67,28 @@ def openXLF(xlf):
 
     return workbook, ws
 
-"""
-#have not started
-def moveSCC(ws,subcol,hncol):
 
-    startrow = 5
-    r        = startrow + 1
-    startcol = 2
-    endcol   = 34
+#working on
+def archiveSubs(ws,subcol,hncol):
 
-    for c in range(startcol,endcol + 1):
-        txt = str(ws.cell(startrow,c).value)
-        txt = txt.lower()
-
-        if txt == "house number":
-            print("  House Number")
-            print("  ============")
-            break
-        elif txt == "none":
-            sys.exit(1)
-
+    r = 6
     while True:
 
-        txt = str(ws.cell(r,c).value)
+        c  = subcol
+        sccname  = str(ws.cell(r,c).value)
 
-        if txt == "None":
-            break
+        c = hncol
+        housenum = str(ws.cell(r,c).value)
+
+        if (sccname == "None") or (housenum == "None"):
+            return
         else:
-            #print(" ",txt)
-            #Left off here form the link
+            sccname  += ".scc"
+            housenum += ".scc"
+            print(sccname, ":", housenum)
+
         r += 1
-"""
+
 
 #done: will report columns of scc & house number
 def getColumns(ws):
@@ -127,7 +118,6 @@ def getColumns(ws):
     return subcol,hncol
 
 
-
 #1) Get the XLF File
 xlf,s3path = getXLF()
 
@@ -136,5 +126,10 @@ workbook,ws = openXLF(xlf)
 
 #3) get the columns of the scc files, and HouseNumbers:
 subcol, hncol = getColumns(ws)
+
+#4) read the xl file and archive the data
+archiveSubs(ws,subcol,hncol)
+
+
 
 workbook.close()
