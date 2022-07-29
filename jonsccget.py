@@ -67,6 +67,18 @@ def openXLF(xlf):
 
     return workbook, ws
 
+def archiveCaption(sccname,housenum):
+
+    capmatch = re.search("^([a-zA-Z]+)_.+_([sS]\d+)_",sccname)
+
+    if capmatch:
+        show   = capmatch.group(1)
+        season = capmatch.group(2)
+
+        season = season.upper()
+        #print(show, ":", season)
+        
+
 
 #working on
 def archiveSubs(ws,subcol,hncol):
@@ -85,7 +97,8 @@ def archiveSubs(ws,subcol,hncol):
         else:
             sccname  += ".scc"
             housenum += ".scc"
-            print(sccname, ":", housenum)
+            #print(sccname, ":", housenum)
+            archiveCaption(sccname,housenum)
 
         r += 1
 
