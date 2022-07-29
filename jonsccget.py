@@ -12,6 +12,7 @@ import argparse
 import openpyxl
 import warnings
 import subprocess
+import shutil
 from openpyxl.utils.cell import get_column_letter
 
 tab = "1. Master Metadata"
@@ -24,6 +25,10 @@ def getXLF():
     print("")
     while True:
         s3path = input("  Give me your AWS S3 Path: ")
+
+        if s3path == "":
+            sys.exit(0)
+
         lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
         xlf = os.popen(lscmd).read()
         time.sleep(5)
@@ -67,7 +72,10 @@ def openXLF(xlf):
 
     return workbook, ws
 
+#done
 def archiveCaption(sccname,housenum):
+
+    subdirList = ['Episode_Number', 'House_Number']
 
     capmatch = re.search("^([a-zA-Z]+)_.+_([sS]\d+)_",sccname)
 
@@ -75,12 +83,36 @@ def archiveCaption(sccname,housenum):
         show   = capmatch.group(1)
         season = capmatch.group(2)
 
-        season = season.upper()
-        #print(show, ":", season)
-        
+        season   = season.upper()
+        dirname  = show + "_" + season
+
+        for subdir in subdirList:
+            fullpath = "archive/" + dirname + "/" + subdir
+
+            if not os.path.exists(fullpath):
+                try:
+                    os.makedirs(fullpath)
+                except:
+                    print("  ~~Could not create",fullpath)
+                    return 1
 
 
-#working on
+        try:
+            os.link(housenum,"archive/" + dirname + "/" + "House_Number/" + housenum)
+        except:
+            print("  ~~Could not link to House_Number:", housenum)
+            sys.exit(1)
+
+        try:
+            os.link(housenum,"archive/" + dirname + "/" + "Episode_Number/" + sccname)
+        except:
+            print("  ~~Could not link to Episode_Number:", housenum)
+            sys.exit(1)
+
+    return 0
+
+
+#done
 def archiveSubs(ws,subcol,hncol):
 
     r = 6
@@ -99,6 +131,7 @@ def archiveSubs(ws,subcol,hncol):
             housenum += ".scc"
             #print(sccname, ":", housenum)
             archiveCaption(sccname,housenum)
+            shutil.move(housenum,"zDone/captions/" + housenum)
 
         r += 1
 
@@ -131,18 +164,21 @@ def getColumns(ws):
     return subcol,hncol
 
 
-#1) Get the XLF File
-xlf,s3path = getXLF()
 
-#2) open the XLF File: get workbook and worksheet
-workbook,ws = openXLF(xlf)
+#Main Program
+while True:
+    #1) Get the XLF File
+    xlf,s3path = getXLF()
 
-#3) get the columns of the scc files, and HouseNumbers:
-subcol, hncol = getColumns(ws)
+    #2) open the XLF File: get workbook and worksheet
+    workbook,ws = openXLF(xlf)
 
-#4) read the xl file and archive the data
-archiveSubs(ws,subcol,hncol)
+    #3) get the columns of the scc files, and HouseNumbers:
+    subcol, hncol = getColumns(ws)
 
+    #4) read the xl file and archive the data
+    archiveSubs(ws,subcol,hncol)
 
-
-workbook.close()
+    workbook.close()
+    shutil.move(xlf,"zDone/" + xlf)
+    print("=======================")
