@@ -29,12 +29,14 @@ def getXLF():
         if s3path == "":
             sys.exit(0)
 
-        lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
+        lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | grep -v \"(\"| grep -v \"S10-DH\" | grep -v _km | grep -v TEST | awk '{print $4}'"
+        #lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
         xlf = os.popen(lscmd).read()
         time.sleep(5)
         xlf = xlf.strip()
 
         s3m = re.search("FAST_CHANNEL/$",s3path)
+        #s3m = re.search("_EditedMaster",s3path)
         xlfm = re.search('\.xlsx$',xlf)
 
         if s3m and xlfm:
