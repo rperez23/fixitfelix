@@ -22,10 +22,12 @@ def getXLF():
         lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
         xlf = os.popen(lscmd).read()
         time.sleep(5)
-
         xlf = xlf.strip()
-        m = re.search('\.xlsx$',xlf)
-        if m:
+
+        s3m = re.search("FAST_CHANNEL/$",s3path)
+        xlfm = re.search('\.xlsx$',xlf)
+
+        if s3m and xlfm:
             break
 
     cpcmd = "aws s3 cp \"" + s3path + xlf + "\" ."
