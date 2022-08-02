@@ -40,7 +40,6 @@ def getXLF():
 
     return xlf
 
-
 def openXLF(xlf):
 
     try:
@@ -60,10 +59,24 @@ def openXLF(xlf):
     return workbook, ws
 
 
+def makeBackup(xlf):
+    cpcmd = "cp " + xlf + " 0rig"
+    #print("    making backup file")
+    os.popen(cpcmd)
+    time.sleep(5)
+    backupf = "0rig/" + xlf
+    if not os.path.exists(backupf):
+        print("  ~~Could not make backup file~~")
+        sys.exit(1)
+
+
 #1) Get the XLF File
 xlf = getXLF()
 
-#2) open the XLF File: get workbook and worksheet
+#2) copy the XLF to the 0rig directory
+makeBackup(xlf)
+
+#3) open the XLF File: get workbook and worksheet
 workbook,ws = openXLF(xlf)
 
 #?) close the workbook
