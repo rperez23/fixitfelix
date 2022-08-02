@@ -75,14 +75,18 @@ def makeBackup(xlf):
         print("  ~~Could not make backup file~~")
         sys.exit(1)
 
-def editXlf(ws):
+def getFormatVal():
+    formatval = input("  What is the Format for this Show : ")
+    return formatval
+
+def editXlf(ws,formatval):
 
     startrow = 5
     r        = startrow + 1
     startcol = 2
     endcol   = 34
 
-    formatval = input("  What is the Format for this Show : ")
+    #formatval = input("  What is the Format for this Show : ")
 
     for c in range(startcol,endcol + 1):
 
@@ -155,6 +159,8 @@ def getIdLink(ws):
         r += 1
 
 
+formatval = getFormatVal()
+
 while True:
 
     #1) Get the XLF File
@@ -170,7 +176,7 @@ while True:
     getIdLink(ws)
 
     #5) edit the xl file
-    editXlf(ws)
+    editXlf(ws,formatval)
 
     #6) close the workbook
     workbook.save(xlf)
