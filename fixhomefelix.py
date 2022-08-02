@@ -36,7 +36,7 @@ def getXLF():
     if not os.path.exists(xlf):
         print("  ~~Could not copy xlf file")
         sys.exit(1)
-    print("")
+
 
     return xlf
 
@@ -58,7 +58,6 @@ def openXLF(xlf):
 
     return workbook, ws
 
-
 def makeBackup(xlf):
     cpcmd = "cp " + xlf + " 0rig"
     #print("    making backup file")
@@ -69,6 +68,23 @@ def makeBackup(xlf):
         print("  ~~Could not make backup file~~")
         sys.exit(1)
 
+def editXlf(ws):
+
+    startrow = 5
+    startcol = 2
+    endcol   = 34
+
+    for c in range(startcol,endcol + 1):
+
+        txt = str(ws.cell(startrow,c).value)
+        txt = txt.lower()
+        #print(txt)
+        if txt == "format":
+            break
+        elif txt == "none":
+            sys.exit(1)
+
+
 
 #1) Get the XLF File
 xlf = getXLF()
@@ -78,6 +94,9 @@ makeBackup(xlf)
 
 #3) open the XLF File: get workbook and worksheet
 workbook,ws = openXLF(xlf)
+
+#4) edit the xl file
+editXlf(ws)
 
 #?) close the workbook
 #workbook.save(xlf)
