@@ -71,8 +71,11 @@ def makeBackup(xlf):
 def editXlf(ws):
 
     startrow = 5
+    r        = startrow + 1
     startcol = 2
     endcol   = 34
+
+    formatval = input("What is the Format for this Show : ")
 
     for c in range(startcol,endcol + 1):
 
@@ -84,7 +87,15 @@ def editXlf(ws):
         elif txt == "none":
             sys.exit(1)
 
+    while True:
 
+        txt = str(ws.cell(r,c).value)
+        txt = txt.lower()
+        if txt == "none":
+            break
+        else:
+            print(txt,":",formatval)
+        r += 1
 
 #1) Get the XLF File
 xlf = getXLF()
