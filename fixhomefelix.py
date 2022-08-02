@@ -38,6 +38,8 @@ def getXLF():
         sys.exit(1)
     print("")
 
+    return xlf
+
 
 def openXLF(xlf):
 
@@ -61,12 +63,9 @@ def openXLF(xlf):
 #1) Get the XLF File
 xlf = getXLF()
 
-
-"""
 #2) open the XLF File: get workbook and worksheet
 workbook,ws = openXLF(xlf)
 
 #?) close the workbook
 #workbook.save(xlf)
 workbook.close()
-"""
