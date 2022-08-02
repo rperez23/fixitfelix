@@ -151,33 +151,34 @@ def getIdLink(ws):
         r += 1
 
 
+while True:
 
+    #1) Get the XLF File
+    xlf,s3path = getXLF()
 
-#1) Get the XLF File
-xlf,s3path = getXLF()
+    #2) copy the XLF to the 0rig directory
+    makeBackup(xlf)
 
-#2) copy the XLF to the 0rig directory
-makeBackup(xlf)
+    #3) open the XLF File: get workbook and worksheet
+    workbook,ws = openXLF(xlf)
 
-#3) open the XLF File: get workbook and worksheet
-workbook,ws = openXLF(xlf)
+    #4) get Buzzer Numbers (maybe print link)
+    getIdLink(ws)
 
-#4) get Buzzer Numbers (maybe print link)
-getIdLink(ws)
+    #5) edit the xl file
+    editXlf(ws)
 
-#5) edit the xl file
-editXlf(ws)
+    #6) close the workbook
+    workbook.save(xlf)
+    workbook.close()
 
-#6) close the workbook
-workbook.save(xlf)
-workbook.close()
+    # move it to done folder
+    try:
+        os.rename(xlf,"zDone/" + xlf)
+    except:
+        print("  ~~Cannot move xlf to zDone:",xlf)
+        sys.exit(0)
 
-# move it to done folder
-try:
-    os.rename(xlf,"zDone/" + xlf)
-except:
-    print("  ~~Cannot move xlf to zDone:",xlf)
-    sys.exit(0)
-
-#7) Copy it back to aws
-sendItBack(xlf,s3path)
+    #7) Copy it back to aws
+    sendItBack("zDone/" + xlf,s3path)
+    print("\n=======================\n")
