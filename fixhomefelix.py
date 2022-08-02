@@ -106,6 +106,36 @@ def sendItBack(xlf,s3path):
     cpcmd = "aws s3 cp " + xlf + " " + s3
     print(" ",cpcmd)
 
+def getIdLink(ws):
+
+    startrow = 5
+    r        = startrow + 1
+    startcol = 2
+    endcol   = 34
+
+    for c in range(startcol,endcol + 1):
+        txt = str(ws.cell(startrow,c).value)
+        txt = txt.lower()
+
+        if txt == "house number":
+            print("  House Number")
+            print("  ============")
+            break
+        elif txt == "none":
+            sys.exit(1)
+
+    while True:
+
+        txt = str(ws.cell(r,c).value)
+
+        if txt == "None":
+            break
+        else:
+            #print(" ",txt)
+            #Left off here form the link
+        r += 1
+
+
 #1) Get the XLF File
 xlf,s3path = getXLF()
 
@@ -115,12 +145,15 @@ makeBackup(xlf)
 #3) open the XLF File: get workbook and worksheet
 workbook,ws = openXLF(xlf)
 
-#4) edit the xl file
+#4) get Buzzer Numbers (maybe print link)
+getIdLink(ws)
+
+#5) edit the xl file
 editXlf(ws)
 
-#5) close the workbook
+#6) close the workbook
 workbook.save(xlf)
 workbook.close()
 
-#6) Copy it back to aws
+#7) Copy it back to aws
 sendItBack(xlf,s3path)
