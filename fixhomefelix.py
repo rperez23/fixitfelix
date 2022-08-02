@@ -8,6 +8,7 @@ import argparse
 import openpyxl
 import warnings
 import subprocess
+import webbrowser
 from openpyxl.utils.cell import get_column_letter
 
 tab = "1. Master Metadata"
@@ -19,6 +20,8 @@ def getXLF():
     print("")
     while True:
         s3path = input("  Give me your AWS S3 Path: ")
+        if s3path == "":
+            sys.exit(0)
         lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
         xlf = os.popen(lscmd).read()
         time.sleep(5)
@@ -108,10 +111,14 @@ def sendItBack(xlf,s3path):
 
 def getIdLink(ws):
 
+    base = "https://core.wazeedigital.com/video/searchResults.do?search.type=intermediate&search.withinKeywords=&search.withinResults=&filter=v1:"
+    hns  = ""
+
     startrow = 5
     r        = startrow + 1
     startcol = 2
     endcol   = 34
+
 
     for c in range(startcol,endcol + 1):
         txt = str(ws.cell(startrow,c).value)
@@ -124,16 +131,26 @@ def getIdLink(ws):
         elif txt == "none":
             sys.exit(1)
 
+
     while True:
 
         txt = str(ws.cell(r,c).value)
 
         if txt == "None":
+            m = re.search("(.+)%20OR%20$",hns)
+            if m:
+                tot = (r - 1) - (startrow + 1) + 1
+                print("\n ",tot,"House Numbers Found\n")
+                zelda = base + m.group(1)
+                webbrowser.open(zelda)
             break
         else:
-            #print(" ",txt)
-            #Left off here form the link
+            print(" ",txt)
+            hns += "Fremantle.HouseNumber:" + txt + "%20OR%20"
+
         r += 1
+
+
 
 
 #1) Get the XLF File
@@ -155,6 +172,12 @@ editXlf(ws)
 workbook.save(xlf)
 workbook.close()
 
+# move it to done folder
+try:
+    os.rename(xlf,"zDone/" + xlf)
+except:
+    print("  ~~Cannot move xlf to zDone:",xlf)
+    sys.exit(0)
+
 #7) Copy it back to aws
 sendItBack(xlf,s3path)
-#
