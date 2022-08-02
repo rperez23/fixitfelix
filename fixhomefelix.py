@@ -28,6 +28,7 @@ def getXLF():
         xlf = xlf.strip()
 
         s3m = re.search("FAST_CHANNEL/$",s3path)
+        #s3m = re.search("- Wurl/$",s3path)
         xlfm = re.search('\.xlsx$',xlf)
 
         if s3m and xlfm:
@@ -108,6 +109,9 @@ def sendItBack(xlf,s3path):
     s3 = "\"" + s3path + "\""
     cpcmd = "aws s3 cp " + xlf + " " + s3
     print(" ",cpcmd)
+    cpoutput = os.popen(cpcmd)
+    time.sleep(5)
+    print(cpoutput)
 
 def getIdLink(ws):
 
