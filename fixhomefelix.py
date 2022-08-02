@@ -94,7 +94,7 @@ def editXlf(ws):
         if txt == "none":
             break
         else:
-            print(txt,":",formatval)
+            ws.cell(row=r, column=c).value = formatval
         r += 1
 
 #1) Get the XLF File
@@ -109,6 +109,6 @@ workbook,ws = openXLF(xlf)
 #4) edit the xl file
 editXlf(ws)
 
-#?) close the workbook
-#workbook.save(xlf)
+#5) close the workbook
+workbook.save(xlf)
 workbook.close()
