@@ -38,7 +38,8 @@ def getXLF():
         sys.exit(1)
 
 
-    return xlf
+
+    return xlf, s3path
 
 def openXLF(xlf):
 
@@ -97,8 +98,14 @@ def editXlf(ws):
             ws.cell(row=r, column=c).value = formatval
         r += 1
 
+def sendItBack(xlf,s3path):
+
+    s3 = "\"" + s3path + "\""
+    cpcmd = "aws s3 cp " + xlf + " " + s3
+    print(" ",cpcmd)
+
 #1) Get the XLF File
-xlf = getXLF()
+xlf,s3path = getXLF()
 
 #2) copy the XLF to the 0rig directory
 makeBackup(xlf)
@@ -112,3 +119,6 @@ editXlf(ws)
 #5) close the workbook
 workbook.save(xlf)
 workbook.close()
+
+#6) Copy it back to aws
+sendItBack(xlf,s3path)
