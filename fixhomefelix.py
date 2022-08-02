@@ -75,7 +75,7 @@ def editXlf(ws):
     startcol = 2
     endcol   = 34
 
-    formatval = input("What is the Format for this Show : ")
+    formatval = input("  What is the Format for this Show : ")
 
     for c in range(startcol,endcol + 1):
 
