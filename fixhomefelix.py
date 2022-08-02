@@ -12,8 +12,10 @@ def getXLF():
 
     print("")
     s3path = input("  Give me your AWS S3 Path: ")
-    lscmd  = "aws s3 ls \"" + s3path + "\""
-    print(lscmd)
+    lscmd  = "aws s3 ls \"" + s3path + "\" | grep xlsx | awk '{print $4}'"
+    #print(lscmd)
+    xlf = os.popen(lscmd).read()
+    print(xlf)
     print("")
 
 getXLF()
