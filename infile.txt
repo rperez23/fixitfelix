@@ -1,0 +1,579 @@
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e10_20200117.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e11_20200124.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e12_20200124.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e13_20200124.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e14_20200130.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e16_20200130.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e17_20200131.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e8_20200117.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2020-02/ThePriceIsRight_s1959_e9_20200117.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e18_20210111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e19_20210111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e20_20210111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e24_20210118.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e25_20210118.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e26_20210118.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e27_20210125.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e28_20210125.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e29_20210125.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e30_20210201.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e31_20210201.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-01/ThePriceIsRight_s1959_e32_20210201.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e33_20210208.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e34_20210208.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e35_20210208.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e36_20210215.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e37_20210215.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-02/ThePriceIsRight_s1959_e38_20210215.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e39_20210809.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e40_20210809.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e41_20210809.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e42_20210816.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e43_20210816.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e44_20210816.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e45_20210823.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e46_20210823.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1959_e47_20210823.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1960_e12_20210830.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1960_e13_20210830.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-08/ThePriceIsRight_s1960_e14_20210830.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e15_20210906.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e16_20210906.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e17_20210906.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e18_20210913.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e19_20210913.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e20_20210913.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e22_20210920.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e23_20210920.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2021-09/ThePriceIsRight_s1960_e24_20210920.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e25_20220328.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e26_20220328.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e27_20220328.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e28_20220404.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e29_20220404.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-03/ThePriceIsRight_s1960_e30_20220404.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1960_e31_20220411.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1960_e32_20220411.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e13_20220411.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e14_20220418.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e15_20220418.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e16_20220418.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e18_20220425.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e19_20220425.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e20_20220425.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e21_20220502.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e22_20220502.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e23_20220502.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e24_20220509.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e25_20220509.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-04/ThePriceIsRight_s1961_e26_20220509.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e27_20220516.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e29_20220516.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e30_20220516.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e31_20220523.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e32_20220523.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e33_20220523.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e34_20220530.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e35_20220530.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/2022-05/ThePriceIsRight_s1961_e36_20220530.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4792_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4793_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4794_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4795_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4801_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4802_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4803_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4804_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4805_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4811_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4812_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4813_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4814_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4815_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4821_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4822_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4823_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4824_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4825_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4831_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4832_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4833_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4834_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4835_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4841_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4842_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4843_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4844_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4845_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 1 01.19.2021/ThePriceIsRight_s11_e4851_20210119.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4852_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4854_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4855_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4861_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4862_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4863_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4864_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4871_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4872_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4873_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4874_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4875_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4881_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4882_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4883_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4884_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4885_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4891_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4892_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4893_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4894_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4895_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4901_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4902_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4903_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4904_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4905_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4911_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4912_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4913_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4914_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4915_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4921_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4922_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 2 01.27.2021/ThePriceIsRight_s11_e4923_20210127.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4924_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4925_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4931_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4932_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4933_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4934_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4935_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4941_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4942_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4943_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4944_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4945_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4951_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4952_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4953_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4954_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4955_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4961_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4962_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4963_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4964_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4965_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4971_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4972_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4973_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4974_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4975_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4981_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4982_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4983_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4984_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s11_e4985_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s12_e4991_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s12_e4992_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 3 02.03.2021/ThePriceIsRight_s12_e4993_20210203.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5222_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5223_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5224_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5225_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5231_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5232_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5233_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5234_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5235_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5241_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5242_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5243_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5244_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5245_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5251_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5252_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5253_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5254_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5255_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5261_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5262_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5263_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5264_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5265_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5271_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5272_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5273_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5274_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5281_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 4 07.08.2021/ThePriceIsRight_s12_e5282_20210708.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5283_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5284_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5285_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5291_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5292_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5293_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5294_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5295_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5301_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5302_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5303_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5304_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5305_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5311_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5312_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5313_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5314_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5315_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5321_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5322_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5323_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5324_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5325_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5331_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5332_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5333_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5334_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5335_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5341_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5342_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5343_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5344_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5345_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5351_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5352_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5353_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5354_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5355_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5361_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5362_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5363_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5364_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5365_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5371_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5372_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5373_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5374_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5375_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5381_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5382_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5383_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5384_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s12_e5385_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5391_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5392_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5393_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5394_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5395_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5401_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5402_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5403_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5404_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5405_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5411_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5413_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5414_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5415_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5421_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5422_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2021 Batch 5 07.21.2021/ThePriceIsRight_s13_e5423_20210721.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5424_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5425_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5431_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5432_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5433_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5434_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5435_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5441_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5442_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5443_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5444_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5445_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5451_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5452_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5453_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5454_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5455_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5461_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5462_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5463_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5464_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5465_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5471_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5472_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5473_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5474_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5475_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5481_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5482_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5424-5483/ThePriceIsRight_s13_e5483_20211216.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5484_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5485_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5491_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5492_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5493_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5501_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5502_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5503_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5504_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5505_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5511_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5513_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5514_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5515_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5521_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5522_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5524_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5525_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5531_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5532_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5533_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5534_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5535_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5543_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5544_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5545_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5551_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5552_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5553_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5554_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5555_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5561_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5562_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5563_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5564_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5565_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5571_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5572_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5573_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5574_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5575_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5581_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5582_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5583_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5584_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5585_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5591_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5592_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5593_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5594_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5595_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5601_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5602_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5603_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5604_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5605_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5611_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5612_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5613_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5614_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5615_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5621_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5622_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5623_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5624_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5625_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5631_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5632_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5633_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/2022 5484-5634/ThePriceIsRight_s13_e5634_20220111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4581_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4582_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4583_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4584_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4585_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4591_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4592_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4593_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4594_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4595_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4601_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4602_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4603_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4604_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4605_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4611_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4612_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4613_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4614_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4615_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4621_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4622_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4623_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4624_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4625_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4631_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4632_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4634_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 1 10.16.2020/ThePriceIsRight_s11_e4635_20201016.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4601_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4641_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4642_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4643_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4644_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4645_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4651_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4652_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4653_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4654_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4655_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4661_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4662_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4663_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4664_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4665_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4671_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4672_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4673_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4674_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4675_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4681_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4682_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4683_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4691_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4692_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4693_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4694_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4695_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4701_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 2 10.26.2020/ThePriceIsRight_s11_e4702_20201026.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4703_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4704_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4705_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4711_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4712_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4713_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4714_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4715_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4721_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4722_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4723_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4724_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4725_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4731_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4732_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4734_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4735_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4741_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4742_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4743_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4744_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4745_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4751_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4752_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4753_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4754_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4755_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4761_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4762_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 3 11.2.20/ThePriceIsRight_s11_e4763_20201102.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4764_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4765_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4771_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4772_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4773_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4774_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4781_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4782_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4783_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4785_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 4 11.11.20/ThePriceIsRight_s11_e4791_20201111.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5002_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5003_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5004_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5005_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5011_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5012_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5013_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5014_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5015_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5021_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5022_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5023_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5024_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5025_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5031_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5032_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5033_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5034_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5035_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5041_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5042_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5043_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5044_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5045_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5051_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5052_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5053_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5054_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5055_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 5 4.16.21/ThePriceIsRight_s12_e5061_20210416.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5062_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5063_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5065_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5071_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5072_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5073_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5074_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5075_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5081_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5082_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5083_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5084_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5085_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5091_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5092_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5093_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5101_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5102_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5104_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5105_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5111_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5112_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5113_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5114_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5115_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5121_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5122_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5123_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5124_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 6 4.23.21/ThePriceIsRight_s12_e5125_20210423.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5131_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5132_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5133_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5134_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5135_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5143_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5144_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5145_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5151_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5152_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5153_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5154_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5155_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5161_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5162_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5163_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5164_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5165_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5171_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5172_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5173_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5174_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5175_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5181_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5182_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5183_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5184_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5185_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5191_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5192_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5194_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5195_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5201_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5203_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5204_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5205_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5211_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5214_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5215_20210430.mov
+s3://s3-fremantle-videomaster-or-1/fremantle/TPIR/Batch 7 4.30.21/ThePriceIsRight_s12_e5221_20210430.mov
