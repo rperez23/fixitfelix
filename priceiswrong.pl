@@ -88,7 +88,7 @@ while(<INF>)
 
     if ($exstat == 0)
     {
-      system("rm $mov");
+      system("rm $movf");
       print OUTF ("$mov : CONVERTED\n");
     }
 
