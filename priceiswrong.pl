@@ -2,11 +2,14 @@
 
 $inf = "infile.txt";
 
+@GlacierList = ();
+
 sub getMOV
 {
 
   $mov = "\"$_[0]\"";
   $cmd = "aws s3 cp $mov .";
+  print("  ~~$cmd~~\n");
 
   unless (open CMD, "$cmd |")
   {
@@ -39,11 +42,17 @@ while(<INF>)
   $mov = $_;
   $stat = &getMOV($mov);
 
-  if ($stat != 0)
+  if ($stat == 0)
   {
-    print("  ~~COPY ERROR : $mov\n");
-    exit(1);
+    #copy successful convert it
+    
   }
+  elsif($stat == 2)
+  {
+    push(@GlacierList,$mov);
+    #print(@GlacierList);
+  }
+  print("\n==========\n");
 
 }
 close(INF);
